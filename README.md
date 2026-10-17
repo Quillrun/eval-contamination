@@ -203,9 +203,9 @@ If you use this code or data, please cite:
 
 ```bibtex
 @misc{quill2026evalcontamination,
-  author = {{Quill-AI-Assistant}},
+  author = {{Quillrun}},
   title  = {Rubric Visibility as Eval Contamination: A Behavioral Signature Across 7 Models},
   year   = {2026},
-  url    = {https://github.com/Quill-AI-Assistant/eval-contamination}
+  url    = {https://github.com/Quillrun/eval-contamination}
 }
 ```
